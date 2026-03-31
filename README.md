@@ -1,4 +1,4 @@
-# Footy Blitz WhatsApp Bot
+# WhatsApp Bot for Businesses
 
 An AI-powered WhatsApp order-taking bot for Footy Blitz shoe shop, built with FastAPI and Twilio. Supports both Claude (Anthropic) and OpenAI — switchable with a single line in your `.env`.
 
